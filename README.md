@@ -1,9 +1,9 @@
 # ProgrammingBasicsJava
 Programming Basics Java
 
-[1. First Steps In Coding - Lab](/FifthWhileLoopLab)
+[1. First Steps In Coding - Lab](/FirstFirstStepsInCodingEx)
 
-[2. First Steps In Coding - Exercise](/FifthWhileLoopLab)
+[2. First Steps In Coding - Exercise](/FirstFirstStepsInCodingEx)
 
 [3. Conditional Statements - Lab](/FifthWhileLoopLab)
 
