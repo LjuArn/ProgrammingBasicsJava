@@ -2,4 +2,4 @@
 Programming Basics Java
 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[content this project](docs/CONTRIBUTING.md)
