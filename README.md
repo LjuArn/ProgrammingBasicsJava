@@ -2,4 +2,4 @@
 Programming Basics Java
 
 
-[content this project](docs/CONTRIBUTING.md)
+[5. While Loop Lab](docs/CONTRIBUTING.md)
