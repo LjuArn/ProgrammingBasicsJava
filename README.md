@@ -1,7 +1,7 @@
 # ProgrammingBasicsJava
 Programming Basics Java
 
-[1. First Steps In Coding - Lab](/FirstFirstStepsInCodingEx)
+[1. First Steps In Coding - Lab](/FirstFirstStepsInCodingLab)
 
 [2. First Steps In Coding - Exercise](/FirstFirstStepsInCodingEx)
 
