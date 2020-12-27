@@ -2,4 +2,4 @@
 Programming Basics Java
 
 
-[5. While Loop Lab](docs/CONTRIBUTING.md)
+[5. While Loop Lab](/FifthWhileLoopLab)
