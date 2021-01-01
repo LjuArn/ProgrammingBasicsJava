@@ -1,28 +1,28 @@
 # ProgrammingBasicsJava
 Programming Basics Java
 
-[1. First Steps In Coding - Lab](/FirstFirstStepsInCodingLab)
+[1.1 First Steps In Coding - Lab](/FirstFirstStepsInCodingLab)
 
-[2. First Steps In Coding - Exercise](/FirstFirstStepsInCodingEx)
+[1.2. First Steps In Coding - Exercise](/FirstFirstStepsInCodingEx)
 
-[3. Conditional Statements - Lab](/FifthWhileLoopLab)
+[2.1. Conditional Statements - Lab](/FifthWhileLoopLab)
 
-[4. Conditional Statements - Exercise](/SecondConditionalStatementsEx)
+[2.2. Conditional Statements - Exercise](/SecondConditionalStatementsEx)
 
-[5. Conditional Statements Advanced - Lab](/FifthWhileLoopLab)
+[3.1. Conditional Statements Advanced - Lab](/FifthWhileLoopLab)
 
-[6. Conditional Statements Advanced - Exercise](/FifthWhileLoopLab)
+[3.2. Conditional Statements Advanced - Exercise](/FifthWhileLoopLab)
 
-[7. For Loop - Lab](/FifthWhileLoopLab)
+[4.1. For Loop - Lab](/FifthWhileLoopLab)
 
-[8. For Loop - Exercise](/FifthWhileLoopLab)
+[4.2. For Loop - Exercise](/FifthWhileLoopLab)
 
-[9. While Loop - Lab](/FifthWhileLoopLab)
+[5.1. While Loop - Lab](/FifthWhileLoopLab)
 
-[10. While Loop - Exercise](/FifthWhileLoopLab)
+[5.2. While Loop - Exercise](/FifthWhileLoopLab)
 
-[11. Nested Loops - Lab](/FifthWhileLoopLab)
+[6.1. Nested Loops - Lab](/FifthWhileLoopLab)
 
-[12. Nested Loops - Exercise](/FifthWhileLoopLab)
+[6.2. Nested Loops - Exercise](/FifthWhileLoopLab)
 
 
