@@ -7,7 +7,7 @@ Programming Basics Java
 
 [3. Conditional Statements - Lab](/FifthWhileLoopLab)
 
-[4. Conditional Statements - Exercise](/FifthWhileLoopLab)
+[4. Conditional Statements - Exercise](/SecondConditionalStatementsEx)
 
 [5. Conditional Statements Advanced - Lab](/FifthWhileLoopLab)
 
