@@ -5,17 +5,17 @@ Programming Basics Java
 
 [1.2. First Steps In Coding - Exercise](/FirstFirstStepsInCodingEx)
 
-[2.1. Conditional Statements - Lab](/FifthWhileLoopLab)
+[2.1. Conditional Statements - Lab](/SecondConditionalStatementsLab)
 
 [2.2. Conditional Statements - Exercise](/SecondConditionalStatementsEx)
 
-[3.1. Conditional Statements Advanced - Lab](/FifthWhileLoopLab)
+[3.1. Conditional Statements Advanced - Lab](/)
 
-[3.2. Conditional Statements Advanced - Exercise](/FifthWhileLoopLab)
+[3.2. Conditional Statements Advanced - Exercise](/)
 
-[4.1. For Loop - Lab](/FifthWhileLoopLab)
+[4.1. For Loop - Lab](/)
 
-[4.2. For Loop - Exercise](/FifthWhileLoopLab)
+[4.2. For Loop - Exercise](/)
 
 [5.1. While Loop - Lab](/FifthWhileLoopLab)
 
