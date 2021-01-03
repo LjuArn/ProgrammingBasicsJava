@@ -9,7 +9,7 @@ Programming Basics Java
 
 [2.2. Conditional Statements - Exercise](/SecondConditionalStatementsEx)
 
-[3.1. Conditional Statements Advanced - Lab](/)
+[3.1. Conditional Statements Advanced - Lab](/ThirdConditionalStatementsAdvancedLab)
 
 [3.2. Conditional Statements Advanced - Exercise](/)
 
