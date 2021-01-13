@@ -13,7 +13,7 @@ Programming Basics Java
 
 [3.2. Conditional Statements Advanced - Exercise](/ThirdConditionalStatementsAdvancedEx)
 
-[4.1. For Loop - Lab](/)
+[4.1. For Loop - Lab](/ForthForLoopLab)
 
 [4.2. For Loop - Exercise](/)
 
