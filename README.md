@@ -15,7 +15,7 @@ Programming Basics Java
 
 [4.1. For Loop - Lab](/ForthForLoopLab)
 
-[4.2. For Loop - Exercise](/)
+[4.2. For Loop - Exercise](/ForthForLoopEx)
 
 [5.1. While Loop - Lab](/FifthWhileLoopLab)
 
