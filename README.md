@@ -19,10 +19,10 @@ Programming Basics Java
 
 [5.1. While Loop - Lab](/FifthWhileLoopLab)
 
-[5.2. While Loop - Exercise](/FifthWhileLoopLab)
+[5.2. While Loop - Exercise](/)
 
-[6.1. Nested Loops - Lab](/FifthWhileLoopLab)
+[6.1. Nested Loops - Lab](/)
 
-[6.2. Nested Loops - Exercise](/FifthWhileLoopLab)
+[6.2. Nested Loops - Exercise](/)
 
 
