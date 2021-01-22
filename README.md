@@ -21,7 +21,7 @@ Programming Basics Java
 
 [5.2. While Loop - Exercise](/FifthWhileLoopEx)
 
-[6.1. Nested Loops - Lab](/)
+[6.1. Nested Loops - Lab](/SixthNestedLoopsLab)
 
 [6.2. Nested Loops - Exercise](/)
 
