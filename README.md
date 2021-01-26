@@ -1,5 +1,5 @@
 # ProgrammingBasics_Java_2020
-Programming Basics Java Soft Uni
+Programming Basics Java september 2020 Soft Uni
 
 [1.1 First Steps In Coding - Lab](/FirstFirstStepsInCodingLab)
 
